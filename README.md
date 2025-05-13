@@ -17,6 +17,7 @@ Language and Tools used:
 2. JDK 17
 3. sql server developer edition
 4. SQL Server Management Studio(SSMS)
-5. Postman
+5. Intellij Community Edition
+6. Postman
 
 Note that i used database tables from https://www.codeproject.com/Tips/826425/Relational-Database-Design-with-an-Auto-Insurance, as this project originally invovled company database.
