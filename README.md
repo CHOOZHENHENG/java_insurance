@@ -20,4 +20,4 @@ Language and Tools used:
 5. Intellij Community Edition
 6. Postman
 
-Note that i used database tables from https://www.codeproject.com/Tips/826425/Relational-Database-Design-with-an-Auto-Insurance, as this project originally invovled company database.
+Note that i refer database tables from https://www.codeproject.com/Tips/826425/Relational-Database-Design-with-an-Auto-Insurance, as this project originally invovled company database.
